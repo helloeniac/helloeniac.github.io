@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Hello ENIAC</title>
+		<description>{&quot;meta&quot;=&gt;&quot;Hello-ENIAC is a blog about programming, web development, javascript and more...&quot;, &quot;subtitle&quot;=&gt;&quot;I'm here to share what i learning and what i like. I write about programming, web development, Javascript and etc in English(I can't do it well but i try it!).&quot;}</description>
+		<link>http://helloeniac.github.io</link>
+		<atom:link href="http://helloeniac.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
